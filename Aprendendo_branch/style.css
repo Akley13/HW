@@ -16,6 +16,11 @@ main {
     padding: 20px;
 }
 
+.flu {
+    float: right;
+    padding-left: 3%;
+}
+
 img {
     width: 15%;
 }
