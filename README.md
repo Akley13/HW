@@ -1,5 +1,5 @@
 # Hello, World!
- Primeiro Repositório | Teste
+ Primeiro Repositório | MarkDown | Testes 
 
  Criado afim de conhecer as funcionalidades do GIT e GitHub.
  
